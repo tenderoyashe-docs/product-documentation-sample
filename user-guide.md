@@ -46,3 +46,22 @@ Users can filter tasks by:
 3. Confirm export.
 
 The report will download automatically.
+---
+
+## Permissions
+
+The Project Dashboard is accessible to:
+
+- Project Managers
+- Team Members assigned to the project
+- Administrators
+
+Users without project access will not see the dashboard in the navigation menu.
+
+---
+
+## Related Documentation
+
+- Creating a New Project
+- Managing User Roles and Permissions
+- Generating Project Reports
